@@ -4,7 +4,6 @@
 
 Skills: SQL, T-SQL, PowerPI, Excel, Visio, ERP(Oracle, SAP), Alphacam, Autocad
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: ipektekelioglu35@gmail.com 
 
