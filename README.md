@@ -1,6 +1,6 @@
 ### Hi there 👋, İpek Hisar
 #### Industrial Engineer
-4 yıl metot mühendisi olarak çalıştıktan sonra istifa edip kendini SQL, PowerBI, Pyhton'da geliştiren, geliştirmeye devam eden ve veri analistliği, iş analistliği, veritabanları alanlarında çalışma hedefinde olan bir endüstri mühendisiyim. 
+An industrial engineer who resigned after working as a method engineer for 4 years and developed and continues to develop herself in SQL, PowerBI, Python and aims to work in the fields of data analyst, business analyst and databases.
 
 Skills: SQL, T-SQL, PowerPI, Excel, Visio, ERP(Oracle, SAP), Alphacam, Autocad
 
